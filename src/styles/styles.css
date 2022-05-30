@@ -1,0 +1,12 @@
+:root {
+  --gridMinSize: 25vw;
+  purp: rebeccapurple;
+  pink: pink;
+  yellow: #ffe534;
+}
+
+body {
+  margin: 0;
+  background: #f8f8f8;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
